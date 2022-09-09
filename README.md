@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje estou em busca da minha primeira oportunidade no mercado Dev. ...
-- 🌱 Estudando Java, JavaScript e Spring Boot.
+- 🌱 Estudando Java, python e Javascript.
 - 📫 Meu contato: mcp30194@gmail.com ...
 
 <div align="center">
