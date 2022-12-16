@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje estou em busca da minha primeira oportunidade no mercado Dev. ...
-- 🌱 Estudando Java, python e Javascript.
+- 🌱 Estudando Docker, Node, React e Javascript.
 - 📫 Meu contato: mcp30194@gmail.com ...
 
 <div align="center">
