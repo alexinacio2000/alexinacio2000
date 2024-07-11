@@ -58,7 +58,8 @@
 
 ###
 
-[![Spotify](https://novatorem-byxncae6i-alexs-projects-e7feed89.vercel.app/api/spotify)](https://open.spotify.com/user/xic7bvfasy95t0426cl0a2l5t)
+[![Spotify](https://novatorem-git-main-alexs-projects-e7feed89.vercel.app/api/spotify)](https://open.spotify.com/user/Alex)
+
 
 <h1 align="left">Portifólio</h1>
 
