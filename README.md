@@ -48,7 +48,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alexinacio2000/alexinacio2000/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/alexinacio2000/alexinacio2000/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://gitub-readme-stats.vercel.app/api/pin/?username=alexinacio2000&repo=alexinacio2000&theme=react)](https://github.com/alexinacio2000/alexinacio2000)
 
 ###
 
