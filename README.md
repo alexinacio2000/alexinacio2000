@@ -48,7 +48,7 @@
 <br clear="both">
 
 ###
-
+<h2>Seja luz por onde você passa</h2>
 <div align="center">
   <img height="300" width="100%" src="https://pa1.aminoapps.com/6742/eac3ed1cfab9a952d86e54552e6574ca0eb1b9ad_hq.gif"  />
 </div>
