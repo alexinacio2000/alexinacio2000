@@ -50,7 +50,7 @@
 ###
 <h1>A ciência de hoje é a tecnologia de amanhã.</h1>
 <div align="center">
-  <img height="300" width="100%" src="https://i.pinimg.com/originals/c7/65/10/c765104b54fb5c45ea05dfc72bcf7513.gif"  />
+  <img height="300" width="100%" src="./src/Alex Inácio Pereira.gif"  />
 </div>
 
 ###
