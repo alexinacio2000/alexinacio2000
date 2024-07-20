@@ -63,6 +63,9 @@
   <a href="https://github.com/alexinacio2000/mainframe_COBOL" style="color: white; text-decoration: none;" onmouseover="this.style.color='#000080'" onmouseout="this.style.color='white'">
     Mainframe COBOL
   </a>
+  <a href="https://github.com/alexinacio2000/mainframe_COBOL](https://github.com/alexinacio2000/Projeto-MGC" style="color: white; text-decoration: none;" onmouseover="this.style.color='#000080'" onmouseout="this.style.color='white'">
+    Projeto Social MGC
+  </a>
 </h2>
 
 
