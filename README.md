@@ -33,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <a href="https://www.boasafrasementes.com.br/" target="_blank">
-  <img src="./src/logo-boa-safra (1).svg" height="50" alt="java logo" />
+ 
 </a>
 </div>
 
